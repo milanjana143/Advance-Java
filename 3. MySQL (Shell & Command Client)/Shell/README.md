@@ -1,8 +1,3 @@
-1. After importing java project always check that the mysql connector jar works or not, if not then your downloaded jar file need to replace with imported jar in modulepath or classpath from configure build path.
-
-2. Then you have to make sure that you have local db with same name as use in program. Otherwise create a db using same name from mysql command line client. Also check that table creation command is availabe or not in program, otherwise create a table in db using same table attribute names.
-
-
 🗄️ DATABASE COMMANDS :-
 
 // Show All Databases-
