@@ -2,4 +2,4 @@
 
 2. Then you have to make sure that you have local db with same name as use in program. Otherwise create a db using same name from mysql command line client. <br>
 
-Also check that table 
+ Also check that table 
