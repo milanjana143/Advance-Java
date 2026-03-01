@@ -1,1 +1,0 @@
-Download & Install MySQL command line client- https://youtu.be/R1xznC5gfrY?si=HUCzJI6LXyYOUXKk  

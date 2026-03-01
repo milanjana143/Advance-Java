@@ -1,0 +1,1 @@
+Window -> Preferences -> Search Autosave -> Tick the checkbox- "Enable autosave for dirty editors" -> Enter time in seconds (1 sec) -> Apply -> Apply & Close 
