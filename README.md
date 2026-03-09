@@ -20,4 +20,4 @@ It is based on core concepts of **Java**, which was developed by **James Gosling
 * Banking and business software   <br><br>
 
 
-Visit this repository for basic Java programming along with environment setup using jdk- https://github.com/milanjana143/JAVA-Programs
+Visit this repository for basic Java programming using JDK-  https://github.com/milanjana143/JAVA-Programs
