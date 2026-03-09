@@ -17,4 +17,7 @@ It is based on core concepts of **Java**, which was developed by **James Gosling
 * Web applications
 * Enterprise applications
 * E-commerce websites
-* Banking and business software
+* Banking and business software   <br><br>
+
+
+Visit this repository for basic Java programming along with environment setup using jdk- https://github.com/milanjana143/JAVA-Programs
