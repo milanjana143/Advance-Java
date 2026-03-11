@@ -1,4 +1,4 @@
-## 💻 Introduction to Advanced Java
+## Introduction to Advanced Java
 
 **Advanced Java is a part of Java programming** used to develop web-based and enterprise applications. It focuses on server-side programming, database connectivity, and dynamic web content. Advanced Java is mainly used to build large-scale, distributed applications.
 
