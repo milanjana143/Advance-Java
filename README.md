@@ -21,3 +21,5 @@ It is based on core concepts of **Java**, which was developed by **James Gosling
 
 
 Visit this repository for basic Java programming using JDK-  https://github.com/milanjana143/JAVA-Programs
+
+JAVA Project (Book Store Application)- https://github.com/milanjana143/Book-Store-Application
