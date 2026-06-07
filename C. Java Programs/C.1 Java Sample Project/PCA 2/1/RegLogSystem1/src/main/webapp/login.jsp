@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Login</title>
+</head>
+<body>
+
+<h2>User Login</h2>
+
+<form action="login" method="post">
+
+    Email:
+    <input type="email" name="email" required>
+    <br><br>
+
+    Password:
+    <input type="password" name="password" required>
+    <br><br>
+
+    <a href="register.jsp"><input type="button" value="Register"></a>
+    <input type="submit" value="Login">
+    
+</form>
+
+</body>
+</html>
