@@ -1,4 +1,4 @@
-package com.jdbc;
+// JDBC code to insert multiplr data using Batch.
 
 import java.sql.*;
 
@@ -28,7 +28,7 @@ public class BatchInsert {
             con.close();
 
         } catch(Exception e) {
-            e.printStackTrace();
+        	System.out.println(e);
         }
     }
 }
