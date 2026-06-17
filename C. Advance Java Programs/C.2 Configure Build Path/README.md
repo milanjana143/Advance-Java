@@ -1,1 +1,1 @@
-You can also add the mysql connector jar file in classpath.
+You can also add the mysql connector jar file in classpath. 
